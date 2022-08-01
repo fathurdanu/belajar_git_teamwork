@@ -1,2 +1,3 @@
 # belajar_git_teamwork
-hello: kalau sekarang giliran si hello
+main: si main sedang mengedit
+main: edit lagi dong
