@@ -2,3 +2,4 @@ menambah file3.txt
 menambah baris di file3.txt
 feature 3
 edit file3 ini dari branch feature/b
+Feature C
